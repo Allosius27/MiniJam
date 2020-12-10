@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FadeSystem
+  - Tile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - VFX
+  - Trap
+  - Enemy
+  - Decor
+  - Checkpoints
+  - PlayerSoul
+  - PhysicObjects
+  - Objects
+  - SoulObjects
+  - Camera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: VFX
+    uniqueID: 3474137429
+    locked: 0
+  - name: Player
+    uniqueID: 2079809905
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 712470047
+    locked: 0
+  - name: Battle BG
+    uniqueID: 1455441813
+    locked: 0
+  - name: Battle Chars
+    uniqueID: 986166727
+    locked: 0
