@@ -1,0 +1,758 @@
+fileFormatVersion: 2
+guid: 2b5de837c9c9a574e8fda4fcf7d4efa6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7489039792662706780
+    second: MiniJam UI_0
+  - first:
+      213: 4647236092560710485
+    second: MiniJam UI_1
+  - first:
+      213: -514493120408309499
+    second: MiniJam UI_2
+  - first:
+      213: 4270534084913913951
+    second: MiniJam UI_3
+  - first:
+      213: 2748370921183057879
+    second: MiniJam UI_4
+  - first:
+      213: -1000893059799867999
+    second: MiniJam UI_5
+  - first:
+      213: -458060912560338056
+    second: MiniJam UI_6
+  - first:
+      213: -3751061475466374054
+    second: MiniJam UI_7
+  - first:
+      213: 5122935142834627970
+    second: MiniJam UI_8
+  - first:
+      213: -8973736852209034993
+    second: MiniJam UI_9
+  - first:
+      213: 2791465129343452138
+    second: MiniJam UI_10
+  - first:
+      213: 6255152218770325431
+    second: MiniJam UI_11
+  - first:
+      213: -9072475966059972300
+    second: MiniJam UI_12
+  - first:
+      213: -1003444110835808062
+    second: MiniJam UI_13
+  - first:
+      213: -7038325654906637163
+    second: MiniJam UI_14
+  - first:
+      213: -1630954723121031785
+    second: MiniJam UI_15
+  - first:
+      213: 1266161593134428704
+    second: MiniJam UI_16
+  - first:
+      213: 4911428553760437714
+    second: MiniJam UI_17
+  - first:
+      213: 6206296634225841104
+    second: MiniJam UI_18
+  - first:
+      213: -3213786919841403778
+    second: MiniJam UI_19
+  - first:
+      213: -1980839695360023309
+    second: MiniJam UI_20
+  - first:
+      213: -6183214934233764473
+    second: MiniJam UI_21
+  - first:
+      213: -8280461889889841472
+    second: MiniJam UI_22
+  - first:
+      213: -7899152928357342038
+    second: MiniJam UI_23
+  - first:
+      213: -723687445471702956
+    second: MiniJam UI_24
+  - first:
+      213: 4995931301198560425
+    second: MiniJam UI_25
+  - first:
+      213: -2433552212659586032
+    second: MiniJam UI_26
+  - first:
+      213: 8742270756241839581
+    second: MiniJam UI_27
+  - first:
+      213: 1604332869058172960
+    second: MiniJam UI_28
+  - first:
+      213: -8214281026922620808
+    second: MiniJam UI_29
+  - first:
+      213: -6845780135923077471
+    second: MiniJam UI_30
+  - first:
+      213: -70300607232936074
+    second: MiniJam UI_31
+  - first:
+      213: -4375577158691100047
+    second: MiniJam UI_32
+  - first:
+      213: 2235633966047440205
+    second: MiniJam UI_33
+  - first:
+      213: 3244199263768251268
+    second: MiniJam UI_34
+  - first:
+      213: -5084472165037001455
+    second: MiniJam UI_35
+  - first:
+      213: -2180820018453356136
+    second: MiniJam UI_36
+  - first:
+      213: 57045391724543202
+    second: MiniJam UI_37
+  - first:
+      213: 3073822839338120170
+    second: MiniJam UI_38
+  - first:
+      213: 1037457136462678171
+    second: MiniJam UI_39
+  - first:
+      213: 6500550269986896759
+    second: MiniJam UI_40
+  - first:
+      213: 7693596220353396893
+    second: MiniJam UI_41
+  - first:
+      213: 9022793297791255025
+    second: MiniJam UI_42
+  - first:
+      213: -5665463883468617602
+    second: MiniJam UI_43
+  - first:
+      213: 3807739369185094651
+    second: MiniJam UI_44
+  - first:
+      213: 7390299867089584376
+    second: MiniJam UI_45
+  - first:
+      213: -6469609612837074652
+    second: MiniJam UI_46
+  - first:
+      213: 2536023274181169631
+    second: MiniJam UI_47
+  - first:
+      213: 2529739829912805289
+    second: MiniJam UI_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniJam UI_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2186
+        width: 1194
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878db095de2010e80800000000000000
+      internalID: -8214281026922620808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_30
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 2181
+        width: 1227
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae21e3ac37eef0a0800000000000000
+      internalID: -6845780135923077471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_31
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2210
+        width: 1181
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677f26e58fd360ff0800000000000000
+      internalID: -70300607232936074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_32
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1817
+        width: 1196
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a67e8c1c3d643c0800000000000000
+      internalID: -4375577158691100047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_33
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1798
+        width: 1227
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d2e0a4f31960f10800000000000000
+      internalID: 2235633966047440205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_34
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1821
+        width: 1181
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b8d79ba06b50d20800000000000000
+      internalID: 3244199263768251268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1412
+        width: 1191
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115bb9c21835079b0800000000000000
+      internalID: -5084472165037001455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_36
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1402
+        width: 1227
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891e6096fbb2cb1e0800000000000000
+      internalID: -2180820018453356136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_37
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 774
+        width: 1181
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec70d54b7aaac000800000000000000
+      internalID: 57045391724543202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1015
+        width: 1186
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae33b39269968aa20800000000000000
+      internalID: 3073822839338120170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_39
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 996
+        width: 1227
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b984d88d4c9c56e00800000000000000
+      internalID: 1037457136462678171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_40
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1019
+        width: 1181
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b73277708963a50800000000000000
+      internalID: 6500550269986896759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 438
+        width: 500
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90c37ffff425ca60800000000000000
+      internalID: 7693596220353396893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 438
+        width: 500
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f18f9413b6673d70800000000000000
+      internalID: 9022793297791255025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_43
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 404
+        width: 578
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e784c0a6d9a3061b0800000000000000
+      internalID: -5665463883468617602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_44
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 404
+        width: 576
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb2c8138cec7d430800000000000000
+      internalID: 3807739369185094651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_45
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 438
+        width: 500
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0cd79d29e9f8660800000000000000
+      internalID: 7390299867089584376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_46
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 438
+        width: 499
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429c467a5545736a0800000000000000
+      internalID: -6469609612837074652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_47
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 173
+        width: 2228
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd111bf3bb3c13320800000000000000
+      internalID: 2536023274181169631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_0
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 3198
+        width: 1989
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a50399bcf5911890800000000000000
+      internalID: -7489039792662706780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_1
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 2870
+        width: 1761
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b9474aa9c4e7040800000000000000
+      internalID: 4647236092560710485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_2
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 2519
+        width: 1369
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5013eae9b372cd8f0800000000000000
+      internalID: -514493120408309499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniJam UI_3
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 1412
+        width: 1194
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50ed7cbf1cf34b30800000000000000
+      internalID: 4270534084913913951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d384ae29e4f9f754c81ec63446386a57
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
