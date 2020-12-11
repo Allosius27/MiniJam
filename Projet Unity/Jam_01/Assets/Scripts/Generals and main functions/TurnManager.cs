@@ -48,7 +48,10 @@ public class TurnManager : MonoBehaviour
         TacticsMove unit = turnTeam.Dequeue();
         unit.countTurn += 1;
         unit.EndTurn();
- 
+        if(unit.spawn)
+        {
+            unit.spawnTurn += 1;
+        }
         //unit.move = 0;
 
         if (turnTeam.Count > 0)

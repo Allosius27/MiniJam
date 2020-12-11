@@ -6,6 +6,8 @@ public class TacticsMove : MonoBehaviour
 {
     public bool turn = false;
     public int countTurn;
+    public int spawnTurn;
+    public bool spawn = false;
 
     List<Tile> selectableTiles = new List<Tile>();
     GameObject[] tiles;
