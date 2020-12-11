@@ -4821,11 +4821,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC
       objectReference: {fileID: 0}
-    - target: {fileID: 2813445903652826840, guid: 217ed57d27dfa9c4d94777d485d60f06,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2813445903652826845, guid: 217ed57d27dfa9c4d94777d485d60f06,
         type: 3}
       propertyPath: m_LocalPosition.x

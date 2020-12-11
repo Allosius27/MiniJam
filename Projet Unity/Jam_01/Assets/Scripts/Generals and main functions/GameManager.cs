@@ -10,6 +10,7 @@ public class GameManager : MonoBehaviour
     public int spawner;
     public GameObject spawnAlertEnemy;
     public GameObject[] spawnEnemy;
+    public int countEnemies;
 
     public static GameManager instance;
 
@@ -40,11 +41,15 @@ public class GameManager : MonoBehaviour
     {
         if(playerMove.countTurn >= 2)
         {
-            //spawner = Random.Range(0, listTiles.Count);
-            Instantiate(spawnAlertEnemy, transform.position, transform.rotation);
-            //listTiles[spawner].GetComponent<Tile>().walkable = false;
-            playerMove.countTurn = 0;
-            playerMove.spawn = true;
+            if(countEnemies <= 6)
+            {
+                //spawner = Random.Range(0, listTiles.Count);
+                Instantiate(spawnAlertEnemy, transform.position, transform.rotation);
+                //listTiles[spawner].GetComponent<Tile>().walkable = false;
+                playerMove.countTurn = 0;
+                playerMove.spawn = true;
+            }
+            
         }
     }
 }

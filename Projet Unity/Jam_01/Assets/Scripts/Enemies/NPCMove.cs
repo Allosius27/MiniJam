@@ -6,6 +6,8 @@ public class NPCMove : TacticsMove
 {
     GameObject target;
 
+    public bool touched;
+
     // Use this for initialization
     void Start()
     {

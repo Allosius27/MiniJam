@@ -16,7 +16,9 @@ public class TacticsMove : MonoBehaviour
     Tile currentTile;
 
     public bool moving = false;
+    public bool attacking = false;
     public int move = 5;
+    public bool enemyCollision;
     public int moveValue;
     public float jumpHeight = 2;
     public float moveSpeed = 2;
@@ -161,7 +163,14 @@ public class TacticsMove : MonoBehaviour
             RemoveSelectableTiles();
             moving = false;
 
-            TurnManager.EndTurn();
+            if (gameObject.tag == "NPC")
+            {
+                TurnManager.EndTurn();
+            }
+            else if (gameObject.tag == "Player")
+            {
+                TurnManager.PlayerEndTurn();
+            }
         }
     }
 
@@ -392,10 +401,35 @@ public class TacticsMove : MonoBehaviour
     public void BeginTurn()
     {
         turn = true;
+        if (spawn)
+        {
+            spawnTurn += 1;
+        }
+        /*for (int i = 0; i < GameManager.instance.spawnEnemy.Length; i++)
+        {
+            if (GameManager.instance.spawnEnemy[i].GetComponent<NPCMove>().touched)
+            {
+                GameManager.instance.spawnEnemy[i].SetActive(false);
+                turn = false;
+            }
+        }*/
     }
 
     public void EndTurn()
     {
         turn = false;
+        attacking = false;
+        move = moveValue;
+        if (spawn)
+        {
+            spawnTurn += 1;
+        }
+        /*for (int i = 0; i < GameManager.instance.spawnEnemy.Length; i++)
+        {
+            if(GameManager.instance.spawnEnemy[i].GetComponent<NPCMove>().touched)
+            {
+                GameManager.instance.spawnEnemy[i].SetActive(false);
+            }
+        }*/
     }
 }

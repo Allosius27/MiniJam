@@ -21,10 +21,12 @@ public class Tile : MonoBehaviour
     public float g = 0;
     public float h = 0;
 
+    public Color baseColor;
+
     // Use this for initialization
     void Start()
     {
-
+        baseColor = GetComponent<Renderer>().material.color;
     }
 
     // Update is called once per frame
@@ -44,7 +46,7 @@ public class Tile : MonoBehaviour
         }
         else
         {
-            GetComponent<Renderer>().material.color = Color.white;
+            GetComponent<Renderer>().material.color = baseColor;
         }
     }
 

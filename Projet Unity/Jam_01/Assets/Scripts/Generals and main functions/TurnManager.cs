@@ -66,6 +66,33 @@ public class TurnManager : MonoBehaviour
         }
     }
 
+    public static void PlayerEndTurn()
+    {
+        TacticsMove unit = turnTeam.Dequeue();
+        unit.move = 0;
+        if (unit.attacking)
+        {
+            unit.countTurn += 1;
+            unit.EndTurn();
+        }
+        if (unit.spawn && unit.attacking)
+        {
+            unit.spawnTurn += 1;
+        }
+        //unit.move = 0;
+
+        if (turnTeam.Count > 0)
+        {
+            StartTurn();
+        }
+        else
+        {
+            string team = turnKey.Dequeue();
+            turnKey.Enqueue(team);
+            InitTeamTurnQueue();
+        }
+    }
+
     public static void AddUnit(TacticsMove unit)
     {
         List<TacticsMove> list;
