@@ -9,7 +9,7 @@ public class GameManager : MonoBehaviour
     public List<GameObject> listTiles;
     public int spawner;
     public GameObject spawnAlertEnemy;
-    public GameObject spawnEnemy;
+    public GameObject[] spawnEnemy;
 
     public static GameManager instance;
 
@@ -22,6 +22,12 @@ public class GameManager : MonoBehaviour
         }
 
         instance = this;
+
+        /*for (int i = 0; i < spawnEnemy.Length; i++)
+        {
+            spawner = Random.Range(0, listTiles.Count);
+            spawnEnemy[i].transform.position = listTiles[spawner].transform.position;
+        }*/
     }
 
     // Start is called before the first frame update
@@ -29,14 +35,14 @@ public class GameManager : MonoBehaviour
     {
         Debug.Log(playerMove.countTurn);
     }
-
     // Update is called once per frame
     void Update()
     {
         if(playerMove.countTurn >= 2)
         {
-            spawner = Random.Range(0, listTiles.Count);
-            Instantiate(spawnAlertEnemy, listTiles[spawner].transform.position, listTiles[spawner].transform.rotation);
+            //spawner = Random.Range(0, listTiles.Count);
+            Instantiate(spawnAlertEnemy, transform.position, transform.rotation);
+            //listTiles[spawner].GetComponent<Tile>().walkable = false;
             playerMove.countTurn = 0;
             playerMove.spawn = true;
         }
